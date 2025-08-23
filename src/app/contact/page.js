@@ -112,7 +112,7 @@ export default function ContactPage() {
                   type="tel"
                   {...register('phone')}
                   className="w-full px-4 py-2 border rounded-lg focus:outline-none focus:ring-2 focus:ring-primary-500"
-                  placeholder="(123) 456-7890"
+                  placeholder="(2547) 07080000"
                 />
               </div>
 
@@ -171,8 +171,8 @@ export default function ContactPage() {
                   </div>
                   <div>
                     <h4 className="font-semibold mb-1">Phone</h4>
-                    <a href="tel:+1234567890" className="text-gray-600 hover:text-primary-500 transition-colors">
-                      +1 (234) 567-890
+                    <a href="tel:+254711103249" className="text-gray-600 hover:text-primary-500 transition-colors">
+                      +254 (711) 103-249
                     </a>
                   </div>
                 </div>
@@ -184,8 +184,8 @@ export default function ContactPage() {
                   <div>
                     <h4 className="font-semibold mb-1">Business Hours</h4>
                     <p className="text-gray-600">
-                      Monday - Friday: 9:00 AM - 6:00 PM<br />
-                      Saturday - Sunday: 10:00 AM - 4:00 PM
+                      Monday - Friday: 7:00 AM - 5:00 PM<br />
+                      Saturday - Sunday: 08:00 AM - 4:00 PM
                     </p>
                   </div>
                 </div>

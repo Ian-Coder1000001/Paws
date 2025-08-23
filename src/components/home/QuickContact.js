@@ -25,7 +25,7 @@ export default function QuickContact() {
             transition={{ duration: 2, repeat: Infinity, repeatDelay: 3 }}
             className="inline-block mb-6"
           >
-            <FaPaw className="text-6xl" />
+            {/* <FaPaw className="text-6xl" /> */}
           </motion.div>
           
           <h2 className="text-4xl md:text-5xl font-bold mb-6">

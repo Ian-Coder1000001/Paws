@@ -100,15 +100,15 @@ export default function Footer() {
             <div className="space-y-3 text-gray-400">
               <div className="flex items-center space-x-3">
                 <FaPhone className="text-primary-400" />
-                <a href="tel:+1234567890" className="hover:text-white transition-colors">
-                  +1 (234) 567-890
+                <a href="tel:+254711103249" className="hover:text-white transition-colors">
+                  +254 (711) 103-249
                 </a>
               </div>
               <div className="flex items-start space-x-3">
                 <FaClock className="text-primary-400 mt-1" />
                 <div>
-                  <p>Mon - Fri: 9:00 AM - 6:00 PM</p>
-                  <p>Sat - Sun: 10:00 AM - 4:00 PM</p>
+                  <p>Mon - Fri: 7:00 AM - 5:00 PM</p>
+                  <p>Sat - Sun: 8:00 AM - 4:00 PM</p>
                 </div>
               </div>
             </div>
@@ -145,8 +145,7 @@ export default function Footer() {
           <div className="flex flex-col md:flex-row items-center justify-between text-center md:text-left text-gray-400 space-y-2 md:space-y-0">
             <p>&copy; {currentYear} Pawsome Pals. All rights reserved.</p>
             <p className="flex items-center justify-center">
-              Created with 
-              <FaHeart className="text-red-500 mx-1 animate-pulse" />
+              Created
               by 
               <a 
                 href="https://iansh.netlify.app/" 
