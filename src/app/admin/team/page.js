@@ -1,5 +1,7 @@
 // FILE: src/app/admin/team/page.js
 
+//admin@pawsomepals.com
+
 'use client'
 
 import { useState, useEffect } from 'react'

@@ -1,5 +1,7 @@
 // FILE: src/models/User.js
 
+//Admin@2024@
+
 import mongoose from 'mongoose'
 
 const userSchema = new mongoose.Schema({
